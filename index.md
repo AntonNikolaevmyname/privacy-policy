@@ -4,7 +4,7 @@
 <p>Effective date: June 06, 2019</p>
 
 
-<p>D2 community ("us", "we", or "our") operates the D2 community mobile application (the "Application") for mobile devices that was created by Anton Nikolaev.</p>
+<p>SAVVY ("us", "we", or "our") operates the Phrase of the compendium of D2 (Фразы компендиума из д2) mobile application (the "Application") for mobile devices that was created by Anton Nikolaev.</p>
 
 
 <p>We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.</p>
